@@ -3,7 +3,7 @@ Just a fun project using the Teensy board firing keystrokes to your computer whe
 
 
 ## Schematic
-![SchematicImage](https://github.com/tmvtmv/ProgrammableFighterpilotSwitch/images/schematic.jpg)
+![SchematicImage](https://github.com/tmvtmv/ProgrammableFighterpilotSwitch/blob/master/images/schematic.jpg)
 
 ## Examplecode
 ```
