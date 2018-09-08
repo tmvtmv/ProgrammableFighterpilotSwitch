@@ -1,11 +1,11 @@
-# ProgrammableFighterpilotSwitch
+# Programmable Fighterpilot Switch
 Just a fun project using the Teensy board firing keystrokes to your computer when the fire-button is pressed.
 
 
 ## Schematic
 ![SchematicImage](https://github.com/tmvtmv/ProgrammableFighterpilotSwitch/blob/master/images/schematic.jpg)
 
-## Examplecode
+## Example code
 ```
 /*
   ArmAndGo v0.9 (20180830) by Ties Voskamp (ties@voskamp.nu)
