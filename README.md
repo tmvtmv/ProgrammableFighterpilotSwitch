@@ -5,6 +5,10 @@ Just a fun project using the Teensy board firing keystrokes to your computer whe
 ## Schematic
 ![SchematicImage](https://github.com/tmvtmv/ProgrammableFighterpilotSwitch/blob/master/images/schematic.jpg)
 
+## Requirements
+Any Teensy board (See https://www.pjrc.com/store/index.html)
+See https://www.pjrc.com/teensy/td_keyboard.html for all the keyboard options and possibilities.
+
 ## Example code
 ```
 /*
